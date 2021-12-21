@@ -58,7 +58,12 @@
         </div>
         <br>
         <div class="text-center">
-          <a class="animated-button raise" href="https://dapps.padswap.exchange/bridge/" target="_blank">Use the bridge</a><a class="animated-button raise gray" href="https://docs.toad.network/products/toad-bridge" target="_blank">Read more</a>
+          <a class="" href="https://dapps.padswap.exchange/bridge/" target="_blank">
+            <div class="animated-button raise">Use the bridge</div>
+          </a>
+          <a class="" href="https://docs.toad.network/products/toad-bridge" target="_blank">
+            <div class="animated-button raise gray">Read more</div>
+          </a>
         </div>
       </div>
       </v-col>

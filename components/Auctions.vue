@@ -57,10 +57,14 @@
       <div class="paragraph">
       Every 48 hours, the contract will finish the auction and split the auctioned tokens between participants based on their proportional share.
       </div>
-      <div class="text-center">
-        <a class="animated-button raise">View auctions</a>
-        <a class="animated-button raise gray" href="https://docs.toad.network/products/padswap/auctions" target="_blank">Read more</a>
-      </div>
+        <div class="text-center">
+          <a class="" href="" target="_blank">
+            <div class="animated-button raise">View auctions</div>
+          </a>
+          <a class="" href="https://docs.toad.network/products/padswap/auctions" target="_blank">
+            <div class="animated-button raise gray">Read more</div>
+          </a>
+        </div>
       </div>
     </v-col>
     <v-col

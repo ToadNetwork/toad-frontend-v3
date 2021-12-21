@@ -88,8 +88,12 @@
         By giving users the ability to burn PAD at any time and receive its backing, the Vault creates a permanent price floor and guarantees that PAD will always have value.
         </div>
         <div class="text-center">
-        <a class="animated-button raise" href="https://dapps.padswap.exchange/vault/" target="_blank">Access vault</a>
-        <a class="animated-button raise gray" href="https://docs.toad.network/products/padswap/the-vault" target="_blank">Read more</a>
+          <a class="" href="https://dapps.padswap.exchange/vault/" target="_blank">
+            <div class="animated-button raise">Access vault</div>
+          </a>
+          <a class="" href="https://docs.toad.network/products/padswap/the-vault" target="_blank">
+            <div class="animated-button raise gray">Read more</div>
+          </a>
         </div>
       </div>
     </v-col>

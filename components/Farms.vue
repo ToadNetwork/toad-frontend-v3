@@ -40,8 +40,14 @@
       <div class="paragraph">PadSwap offers a wide selection of farms, ranging from safe stablecoin pairs to high-APY partner farms.</div>
       <div class="paragraph">From yield farming to liquidity mining, we've got you covered.</div>
       <div class="text-center">
-         <a class="animated-button raise" href="https://dapps.padswap.exchange/" target="_blank">View farms</a>
-         <a class="animated-button raise gray" href="https://docs.toad.network/products/padswap/yield-farming" target="_blank">Read more</a>
+        <div class="text-center">
+          <a class="" href="https://dapps.padswap.exchange/" target="_blank">
+            <div class="animated-button raise">View farms</div>
+          </a>
+          <a class="" href="https://docs.toad.network/products/padswap/yield-farming" target="_blank">
+            <div class="animated-button raise gray">Read more</div>
+          </a>
+        </div>
       </div>
     </div>
     </v-col>

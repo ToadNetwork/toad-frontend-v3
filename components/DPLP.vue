@@ -50,8 +50,14 @@
         Unlike using a simple liquidity lock, DPLP attracts users to your project and encourages them to add their own liquidity, while still making it impossible to drain the liquidity pool.
       </div>
       <div class="text-center">
-        <a class="animated-button raise" href="https://dapps.padswap.exchange/lpfarms" target="_blank">DPLP farms</a>
-        <a class="animated-button raise gray" href="https://docs.toad.network/products/dplp" target="_blank">Read more</a>
+        <div class="text-center">
+          <a class="" href="https://dapps.padswap.exchange/lpfarms" target="_blank">
+            <div class="animated-button raise">DPLP farms</div>
+          </a>
+          <a class="" href="https://docs.toad.network/products/dplp" target="_blank">
+            <div class="animated-button raise gray">Read more</div>
+          </a>
+        </div>
       </div>
     </div>
     </v-col>
