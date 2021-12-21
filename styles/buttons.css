@@ -60,8 +60,8 @@
 }
 
 .raise {
-  --color: #ffa260;
-  --hover: #e5ff60;
+  --color: #ffa260 !important;
+  --hover: #e5ff60 !important;
 }
 
 .up {
@@ -80,11 +80,9 @@
 }
 
 .gray {
-  --color: #7b9089;
-  --hover: #bbcfc9;
+  --color: #7b9089 !important;
+  --hover: #bbcfc9 !important;
 }
-
-
 
 .animated-button {
   display: inline-block;

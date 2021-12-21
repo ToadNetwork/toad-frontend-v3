@@ -27,6 +27,15 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '~/assets/home.scss',
+    '~/styles/style.css',
+    '~/styles/landing.css',
+    '~/styles/buttons.css',
+    '~/styles/landing-page/auctions.css',
+    '~/styles/landing-page/bridge.css',
+    '~/styles/landing-page/farms.css',
+    '~/styles/landing-page/launchpad.css',
+    '~/styles/landing-page/padswap.css',
+    '~/styles/landing-page/vault.css',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

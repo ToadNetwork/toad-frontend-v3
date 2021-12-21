@@ -124,7 +124,7 @@
 .section-title ul {
   position: relative;
   display: flex;
-  padding: 0;
+  padding: 0 !important;
 }
 
 .section-title li {
