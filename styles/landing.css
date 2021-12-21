@@ -1,0 +1,188 @@
+
+/* Fix for extremely small screen sizes */
+@media all and (max-width: 335px) {
+  .text-glitch {
+    font-size: 8vw !important;
+  }
+}
+
+/* Product cards */
+
+.title-card-container {
+  padding-top: 60px;
+}
+
+.title-card, .title-card:before {
+  background-color: #000 !important;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  width: 300px;
+  margin: 40px 15px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%);
+}
+
+.title-card .icon-container {
+  text-align: center;
+}
+
+.title-card .icon-container img {
+  padding: 10px;
+  border-radius: 100px;
+  height:100px;
+  margin-top: -30px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%);
+}
+
+.title-card-name {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+@media all and (max-width: 400px) {
+  .title-card, .title-card:before {
+    width: 85vw;
+  }
+}
+
+/* Section Banners */
+
+/* Banner images are 1900 x 400 */
+
+.section-banner {
+    display: inline-block;
+    position: relative;
+    width: 85vw;
+    height: 18vw;
+    max-width: 850px;
+    max-height: 180px;
+    padding: 0;
+    overflow: hidden;
+    background: none;
+    margin-top: 150px;
+}
+
+
+.section-banner img {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    /*z-index: -1;*/
+    opacity: 0.8;
+}
+
+.banner-border {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    opacity: 1;
+    z-index: 1;
+    box-shadow: 0 0 20px 20px #000 inset;
+    background: radial-gradient(transparent 10%, #000 70%);
+}
+
+/* Old style of section title text (text on top of a banner) */
+.section-title-text {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	font-weight: bold;
+	font-size: 4rem;
+  color: rgb(255 255 255 / 50%);
+  text-shadow: rgba(0,0,0,0.5) -1px 0, rgba(0,0,0,0.3) 0 -1px, rgba(255,255,255,0.5) 0 1px, rgba(0,0,0,0.3) -1px -2px;
+	text-align: center;
+	line-height: 180px;
+	z-index: 1;
+}
+
+@media all and (max-width: 865px) {
+  .section-title-text {
+    line-height: 120px;
+    font-size: 3rem;
+  }
+}
+
+@media all and (max-width: 665px) {
+  .section-title-text {
+    line-height: 85px;
+    font-size: 2rem;
+  }
+}
+
+/* Fancy section title text that can be lit up */
+
+.section-title {
+  padding: 0;
+  margin: 0; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-title ul {
+  position: relative;
+  display: flex;
+  padding: 0;
+}
+
+.section-title li {
+  list-style: none;
+}
+
+.section-title label {
+  position: relative;
+}
+
+.section-title input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 8vw;
+  width: 8vw;
+  max-height: 80px;
+  max-width: 80px;
+  z-index: 100;
+}
+
+.section-title div {
+  position: relative;
+  height: 8vw;
+  width: 8vw;
+  max-height: 80px;
+  max-width: 80px;
+  background: #18191f;
+  color: #555;
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 46px;
+  cursor: pointer;
+  margin: 0 4px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px 20px #000 inset;
+}
+
+
+.section-title input[type="checkbox"]:checked ~ div {
+  color: yellow;
+  text-shadow: 0 0 15px yellow, 0 0 25px yellow;
+  animation: glow 1.5s linear infinite;
+}
+
+@media all and (max-width: 800px) {
+  .section-title div {
+  font-size: 6vw;
+}
+}
+
+@keyframes glow {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}

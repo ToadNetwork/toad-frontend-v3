@@ -1,0 +1,54 @@
+
+.windmill-animation {
+  width: 40vw;
+  height: 40vw;
+  max-width: 350px;
+  max-height: 350px;
+  min-width: 150px;
+  min-height: 150px;
+  margin: 0 auto;
+  position: relative;
+  overflow: show;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.windmill-farmer-toad {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.windmill-base {
+  position: absolute;
+  height: 100%;
+  width: 50%;
+}
+
+.windmill-blades {
+  position: absolute;
+  top: -28%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.windmill-blades img {
+  width: 100%;
+  animation: 10s rotate infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
