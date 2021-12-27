@@ -229,13 +229,6 @@ export default {
               description: 'Stay up to date with our latest news',
               href: 'https://twitter.com/toadnetwork',
               target: '_blank'
-            },
-            {
-              title: 'Medium',
-              icon: 'mdi-alpha-m',
-              description: 'Find out more about our progress and future plans',
-              href: 'https://toadnetwork.medium.com/',
-              target: '_blank'
             }
           ]
         },
