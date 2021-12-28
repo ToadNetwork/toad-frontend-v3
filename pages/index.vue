@@ -179,6 +179,8 @@
     </v-row>
   </div>
 
+  <BackToTopButton/>
+
   <!-- Various product sections -->
 
   <div ref="padswap">

@@ -29,7 +29,8 @@
             v-bind="attrs"
             v-on="on"
           >
-            <v-icon style="margin-right: 5px" small>{{ item.icon }}</v-icon>
+            <img src="../static/menu-icons/Bridge Icon.svg">
+            <!-- <v-icon style="margin-right: 5px" small>{{ item.icon }}</v-icon> -->
             {{ item.title }}
           </v-btn>
         </template>
