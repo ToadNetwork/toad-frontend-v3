@@ -50,7 +50,9 @@
   <v-row style="padding-top: 50px;" justify="center" align="center">
   <v-col
   cols="12"
-  md="6">
+  md="6"
+  order="2"
+  order-md="1">
     <div class="text-background">
       <div class="paragraph">
         <a href="https://dapps.padswap.exchange/launchpad/" target="_blank" class="green-link">LaunchPAD</a> is our own multi-chain token creation platform, allowing anyone to launch a token on PadSwap with no coding experience.
@@ -72,7 +74,9 @@
   </v-col>
   <v-col
   cols="12"
-  md="6">
+  md="6"
+  order="1"
+  order-md="2">
   <div class="launchpad-animation">
     <img class="planet" src="../static/launchpad-animation/pad-planet.png">
     <div class="rocket">

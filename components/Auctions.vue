@@ -43,10 +43,12 @@
       </li>
     </ul>
   </div>
-  <v-row align="center" justify="center" style="margin-top: 40px">
+  <v-row align="center" justify="center" style="margin-top: 40px;">
     <v-col
     cols="12"
-    md="6">
+    md="6"
+    order="2"
+    order-md="1">
       <div class="text-background">
       <div class="paragraph">
       Our <a target="_blank" class="green-link">perpetual auctions</a> provide a way for projects to continuously raise liquidity for their protocols.
@@ -69,7 +71,9 @@
     </v-col>
     <v-col
     cols="12"
-    md="6">
+    md="6"
+    order="1"
+    order-md="2">
       <div class="text-center">
         <div class="auction-stage">
           <img class="auction-content" src="../static/auctions-animation/toad-auction.png">

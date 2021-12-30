@@ -183,7 +183,7 @@
           <img src="../static/icon-roadmap.png">
         </div>
         <div class="title-card-name">TOADmap</div>
-        <v-card-subtitle class="text-center" style="font-size: 1.05rem">Take a look at what we're up to!</v-card-subtitle>
+        <v-card-subtitle class="text-center" style="font-size: 1.05rem">See what we're up to!</v-card-subtitle>
       </v-card>
 
     </v-row>

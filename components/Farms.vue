@@ -34,7 +34,9 @@
   <v-row align="center" justify="center" style="padding: 50px 0">
     <v-col
     cols="12"
-    md="6">
+    md="6"
+    order="2"
+    order-md="1">
     <div class="text-background">
       <div class="paragraph">Farming is our way to incentivize liquidity provision by offering a secure way to make passive income.</div>
       <div class="paragraph">PadSwap offers a wide selection of farms, ranging from safe stablecoin pairs to high-APY partner farms.</div>
@@ -53,7 +55,9 @@
   </v-col>
   <v-col
   cols="12"
-  md="6">
+  md="6"
+  order="1"
+  order-md="2">
   <div class="windmill-animation">
     <img class="windmill-farmer-toad" src="../static/farms-animation/farmer-toad.png"></img>
     <img class="windmill-base" src="../static/farms-animation/windmill-base.png">

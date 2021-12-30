@@ -1,8 +1,8 @@
 .auction-stage {
   position: relative;
   display: inline-block;
-  width: 35vw;
-  height: 35vw;
+  width: 30vw;
+  height: 30vw;
   max-width: 450px;
   max-height: 450px;
   border-radius: 20px;
