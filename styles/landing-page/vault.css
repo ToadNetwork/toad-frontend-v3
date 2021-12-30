@@ -26,6 +26,10 @@
   width: 100%;
   height: 100%;
 }
+
+
+
+
 .curtain__wrapper input[type=checkbox] {
   position: absolute;
   cursor: pointer;
@@ -36,12 +40,24 @@
   top: 0;
   left: 0;
 }
-.curtain__wrapper input[type=checkbox]:checked ~ div.curtain__panel--left {
+
+
+.curtain__wrapper:hover .curtain__panel--left {
+  transform: translateX(-95%);
+}
+
+.curtain__wrapper:hover .curtain__panel--right {
+  transform: translateX(95%);
+}
+
+/*.curtain__wrapper input[type=checkbox]:checked ~ div.curtain__panel--left {
   transform: translateX(0);
 }
 .curtain__wrapper input[type=checkbox]:checked ~ div.curtain__panel--right {
   transform: translateX(0);
-}
+}*/
+
+
 .curtain__panel {
   display: flex;
   align-items: center;
@@ -57,13 +73,13 @@
 }
 .curtain__panel--left {
   justify-content: flex-end;
-  transform: translateX(-100%);
+  transform: translateX(0);
   background-image: url("../../static/vault-animation/vault-door-left-2d_lit.jpg");
   background-size: 100% 100%;
 }
 .curtain__panel--right {
   justify-content: flex-start;
-  transform: translateX(100%);
+  transform: translateX(0);
   background-image: url("../../static/vault-animation/vault-door-right-2d_lit.jpg");
   background-size: 100% 100%;
 }
