@@ -1,13 +1,11 @@
 <template>
-<div>
-
-  <div class="text-center">
+<div ref="padswap">
+<!--   <div class="text-center">
     <div class="section-banner" ref="padswap">
       <img src="../static/banners/banner-padswap.jpg">
       <div class="banner-border"></div>
     </div>
-  </div>
-
+  </div> -->
     <div class="section-title">
     <ul>
       <li>

@@ -6,7 +6,12 @@
       fixed
       app
     >
-      <img class="mr-3" src="https://d33wubrfki0l68.cloudfront.net/4e5f36d85fde5cbd2921b558e4a36ba2d8a3278f/93d03/assets/images/logo.png" height="40"/>
+      <a href="/">
+      <img
+      class="mr-3"
+      src="https://d33wubrfki0l68.cloudfront.net/4e5f36d85fde5cbd2921b558e4a36ba2d8a3278f/93d03/assets/images/logo.png"
+      height="40"/>
+      </a>
       <v-spacer></v-spacer>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" class="hidden-md-and-up"></v-app-bar-nav-icon>
       <div class="hidden-sm-and-down">

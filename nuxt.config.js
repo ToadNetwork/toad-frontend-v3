@@ -36,6 +36,7 @@ export default {
     '~/styles/landing-page/launchpad.css',
     '~/styles/landing-page/padswap.css',
     '~/styles/landing-page/vault.css',
+    '~/styles/landing-page/roadmap.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

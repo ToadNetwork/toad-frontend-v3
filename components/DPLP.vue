@@ -1,12 +1,12 @@
 <template>
-<div>
+<div ref="dplp">
 <!-- DPLP section -->
-  <div class="text-center">
+<!--   <div class="text-center">
     <div class="section-banner" ref="dplp">
       <img src="../static/banners/banner-dplp.jpg">
       <div class="banner-border"></div>
     </div>
-  </div>
+  </div> -->
   <div class="section-title">
     <ul>
       <li>

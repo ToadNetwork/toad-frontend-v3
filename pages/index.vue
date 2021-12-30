@@ -176,6 +176,16 @@
         <v-card-subtitle class="text-center" style="font-size: 1.05rem">Creates real backing for PAD, accumulated from PadSwap fees.</v-card-subtitle>
       </v-card>
 
+      <v-card
+       @click="goto('roadmap')"
+        class="title-card hover-rgb">
+        <div class="icon-container">
+          <img src="../static/icon-roadmap.png">
+        </div>
+        <div class="title-card-name">TOADmap</div>
+        <v-card-subtitle class="text-center" style="font-size: 1.05rem">Take a look at what we're up to!</v-card-subtitle>
+      </v-card>
+
     </v-row>
   </div>
 
@@ -209,6 +219,10 @@
 
   <div ref="vault">
     <Vault/>
+  </div>
+
+  <div ref="roadmap">
+    <SectionRoadmap/>
   </div>
 
   <!-- Partners section -->

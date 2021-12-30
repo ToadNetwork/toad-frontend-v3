@@ -1,12 +1,12 @@
 <template>
-<div>
+<div ref="bridge">
 <!-- Bridge section -->
-  <div class="text-center">
+<!--   <div class="text-center">
     <div class="section-banner" ref="bridge">
       <img src="../static/banners/banner-bridge.jpg">
       <div class="banner-border"></div>
     </div>
-  </div>
+  </div> -->
   <div class="section-title">
     <ul>
       <li>

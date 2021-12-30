@@ -1,12 +1,12 @@
 <template>
-<div>
+<div ref="launchpad">
   <!-- Launchpad section -->
-  <div class="text-center">
+<!--   <div class="text-center">
     <div class="section-banner" ref="launchpad">
       <img src="../static/banners/banner-launchpad.jpg">
       <div class="banner-border"></div>
     </div>
-  </div>
+  </div> -->
   <div class="section-title">
     <ul>
       <li>

@@ -1,13 +1,13 @@
 <template>
-<div>
- <!-- Farms section -->
-  <div class="text-center">
+  <div ref="farms">
+   <!-- Farms section -->
+<!--   <div class="text-center">
     <div class="section-banner" ref="farms">
       <img src="../static/banners/banner-farms.jpg">
       <div class="banner-border"></div>
     </div>
-  </div>
-    <div class="section-title">
+  </div> -->
+  <div class="section-title">
     <ul>
       <li>
         <input type="checkbox" />
@@ -50,19 +50,19 @@
         </div>
       </div>
     </div>
-    </v-col>
-    <v-col
-     cols="12"
-    md="6">
-      <div class="windmill-animation">
-        <img class="windmill-farmer-toad" src="../static/farms-animation/farmer-toad.png"></img>
-        <img class="windmill-base" src="../static/farms-animation/windmill-base.png">
-        <div class="windmill-blades">
-          <img src="../static/farms-animation/windmill-blades.png">
-        </div>
-      </div>
-    </v-col>
-  </v-row>
+  </v-col>
+  <v-col
+  cols="12"
+  md="6">
+  <div class="windmill-animation">
+    <img class="windmill-farmer-toad" src="../static/farms-animation/farmer-toad.png"></img>
+    <img class="windmill-base" src="../static/farms-animation/windmill-base.png">
+    <div class="windmill-blades">
+      <img src="../static/farms-animation/windmill-blades.png">
+    </div>
+  </div>
+</v-col>
+</v-row>
 
 </div>
 </template>

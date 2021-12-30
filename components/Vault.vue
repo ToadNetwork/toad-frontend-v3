@@ -1,12 +1,12 @@
 <template>
-<div>
+<div ref="vault">
   <!-- Vault section -->
-  <div class="text-center">
+<!--   <div class="text-center">
     <div class="section-banner" ref="vault">
       <img src="../static/banners/banner-vault.jpg">
       <div class="banner-border"></div>
     </div>
-  </div>
+  </div> -->
   <div class="section-title">
     <ul>
       <li>

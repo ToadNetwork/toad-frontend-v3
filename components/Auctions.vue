@@ -1,12 +1,12 @@
 <template>
-<div>
+<div ref="auctions">
   <!-- Auctions section -->
-  <div class="text-center">
+<!--   <div class="text-center">
     <div class="section-banner" ref="auctions">
       <img src="../static/banners/banner-auctions.jpg">
       <div class="banner-border"></div>
     </div>
-  </div>
+  </div> -->
   <div class="section-title">
     <ul>
       <li>
