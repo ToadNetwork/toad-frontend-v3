@@ -41,7 +41,9 @@
     <v-row align="center" justify="center" style="margin-top: 40px">
       <v-col
       cols="12"
-      md="6">
+      md="6"
+      order="2"
+      order-md="1">
       <div class="text-background">
         <div class="paragraph">
           Want to know what we've accomplished so far? Curious about our next steps? Then check our roadmap!
@@ -55,7 +57,9 @@
     </v-col>
     <v-col
     cols="12"
-    md="6">
+    md="6"
+    order="1"
+    order-md="2">
     <div class="roadmap-animation">
       <img class="roadmap-worker-toad" src="../static/roadmap-animation/construction-toad.png">
       <img class="roadmap-jackhammer" src="../static/roadmap-animation/jackhammer.png">
