@@ -165,6 +165,8 @@
       :date="new Date('2021-12-01')"
       title="January 2022"
       description="
+      ☐ V3 UI upgrade<br>
+      ☐ Upgraded Vault system<br>
       ☐ GLMR (Moonbeam) port<br>
       ☐ Multiple project launches on PadSwap<br>
       ☐ Perpetual Auctions<br>
