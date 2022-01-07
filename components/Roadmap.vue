@@ -174,7 +174,7 @@
       ☐ First playable alpha of Toad TCG<br>"
       category="In Progress"
       icon="code"
-      color="yellow"
+      color="blue"
       />
 
       <vue-timeline-update
@@ -196,6 +196,9 @@
   </div>
 </template>
 
-<style scoped>
+<style>
+.gb-base-badge--dark.gb-base-badge--green.gb-base-badge--filled, .gb-vue-timeline-update__category, .gb-base-badge--small {
+      background-color: none !important;
+}
 
 </style>
