@@ -300,6 +300,22 @@
         <span>Piramyd Store</span>
         </div>
       </a>
+      <a
+      href="https://tokensniffer.com/"
+      target="_blank">
+        <div class="partner-content">
+        <img src="../static/partners/tokensniffer.png">
+        <span>Token Sniffer</span>
+        </div>
+      </a>
+      <a
+      href="https://dexscreener.com/moonriver/padswap"
+      target="_blank">
+        <div class="partner-content">
+        <img src="../static/partners/dexscreener.png">
+        <span>DEX Screener</span>
+        </div>
+      </a>
     </div>
   </div>
 </div>
