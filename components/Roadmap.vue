@@ -165,7 +165,16 @@
       :date="new Date('2021-12-01')"
       title="January 2022"
       description="
-      ☐ V3 UI upgrade<br>
+      ☑ New landing page<br>
+      ☑ New cross-chain UI for farms<br>
+      ☑ PadSwap dashboard<br>
+      ☑ Fiat onramping on PadSwap<br>
+
+      ☐ New swap page<br>
+      ☐ New Vault page<br>
+      ☐ New stats page<br>
+      ☐ New Bridge page<br>
+
       ☐ Upgraded Vault system<br>
       ☐ GLMR (Moonbeam) port<br>
       ☐ Multiple project launches on PadSwap<br>
