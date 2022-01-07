@@ -62,8 +62,11 @@
       </div>
       <div class="text-center">
         <div class="text-center">
-          <a class="" href="https://dapps.padswap.exchange/launchpad/" target="_blank">
+          <!-- <a class="" href="https://dapps.padswap.exchange/launchpad/" target="_blank">
             <div class="animated-button raise">Visit LaunchPAD</div>
+          </a> -->
+          <a class="" href="" target="_blank">
+            <div class="animated-button raise">Coming Soon</div>
           </a>
           <a class="" href="https://docs.toad.network/products/launchpad" target="_blank">
             <div class="animated-button raise gray">Read more</div>

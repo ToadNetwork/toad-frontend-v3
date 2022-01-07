@@ -65,35 +65,28 @@
     </v-row>
     </div>
     <v-row
-      style="margin-top:100px; margin-left: 5vw; margin-right: 5vw">
+      style="margin-top:100px; margin-left: 10vw; margin-right: 10vw">
       <v-col
       justify="center"
       cols="12"
-      sm="3"
+      sm="4"
       >
-      <div style="font-size:2.5rem !important;" class="stats text-center">1.96M</div>
-      <div class="text-center">Market Cap</div>
+      <div style="font-size:2.5rem !important;" class="stats text-center">11+</div>
+      <div class="text-center">Months in development</div>
       </v-col>
       <v-col
       cols="12"
-      sm="3"
+      sm="4"
       >
-      <div style="font-size:2.5rem !important;" class="stats text-center">1.48M</div>
-      <div class="text-center">Locked Liquidity</div>
+      <div style="font-size:2.5rem !important;" class="stats text-center">6+</div>
+      <div class="text-center">Unique DeFi products</div>
       </v-col>
       <v-col
       cols="12"
-      sm="3"
+      sm="4"
       >
-      <div style="font-size:2.5rem !important;" class="stats text-center">153.6K</div>
-      <div class="text-center">Circulating Supply</div>
-      </v-col>
-      <v-col
-      cols="12"
-      sm="3"
-      >
-      <div style="font-size:2.5rem !important;" class="stats text-center">195K</div>
-      <div class="text-center">Max Supply</div>
+      <div style="font-size:2.5rem !important;" class="stats text-center">7+</div>
+      <div class="text-center">Projects launched on PadSwap</div>
       </v-col>
     </v-row>
 
