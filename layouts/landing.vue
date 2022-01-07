@@ -297,6 +297,7 @@ export default {
             {
               title: 'PadSwap',
               description: 'Trade TOAD on our own exchange',
+              icon: 'icons/Pad Icon.svg',
               href: 'https://padswap.exchange/#/swap?inputCurrency=0x463e737d8f740395abf44f7aac2d9531d8d539e9',
               target: '_blank'
             },
@@ -315,6 +316,7 @@ export default {
             {
               title: 'Chart',
               description: 'Price chart, provided by DexGuru',
+              icon: 'icons/Stats Icon.svg',
               href: 'https://dex.guru/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9-bsc',
               target: '_blank'
             }
