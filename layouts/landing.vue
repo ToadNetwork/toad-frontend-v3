@@ -43,7 +43,8 @@
             :href="subitem.href"
             :target="subitem.target"
           >
-            <v-icon style="margin-right: 10px">{{ subitem.icon }}</v-icon>
+            <img :src="subitem.icon" style="width: 20px; margin-right: 13px;">
+            <!-- <v-icon style="margin-right: 10px">{{ subitem.icon }}</v-icon> -->
             <v-list-item-title>
               {{ subitem.title }}
               <div class="description">{{ subitem.description }}</div>
@@ -127,7 +128,7 @@ export default {
           subItems: [
             {
               title: 'Swap',
-              icon: 'mdi-swap-horizontal',
+              icon: 'icons/Swap Icon.svg',
               active: true,
               description: 'Buy or sell any token instantly on PadSwap',
               href: 'https://padswap.exchange/#/swap',
@@ -135,41 +136,41 @@ export default {
             },
             {
               title: 'LaunchPad',
-              icon: 'mdi-rocket-launch',
+              icon: 'icons/LaunchPAD Icon.svg',
               description: 'Partake in exclusive presales',
               href: 'https://dapps.padswap.exchange/launchpad',
               target: '_self'
             },
             {
               title: 'Bridge',
-              icon: 'mdi-bridge',
+              icon: 'icons/Bridge Icon.svg',
               description: 'Bridge tokens between chains',
               href: 'https://dapps.padswap.exchange/bridge',
               target: '_self'
             },
             {
               title: 'Vault',
-              icon: 'mdi-safe-square-outline',
+              icon: 'icons/Vault Icon.svg',
               description: 'PAD\'s backing reserves',
               href: 'https://dapps.padswap.exchange/vault',
               target: '_self'
             },
             {
               title: 'Farms',
-              icon: 'mdi-sprout',
+              icon: 'icons/Farms Icon.svg',
               description: 'Earn passive income by staking liquidity',
               href: 'https://dapps.padswap.exchange/',
               target: '_self'
             },
             {
               title: 'Farms (old)',
-              icon: 'mdi-spa-outline',
+              icon: 'icons/Pad Icon.svg',
               description: 'Our old farms using PCSv1 liquidity',
               to: '/toad'
             },
             {
               title: 'Stats',
-              icon: 'mdi-chart-bar',
+              icon: 'icons/Stats Icon.svg',
               description: 'Analyze token prices and their volume',
               href: 'https://info.padswap.exchange/home',
               target: '_self'
@@ -182,28 +183,28 @@ export default {
           subItems: [
             {
               title: 'TOAD Academy',
-              icon: 'mdi-school-outline',
+              icon: 'icons/TOADAcademy Icon.svg',
               description: 'Learn about crypto in a fun way',
               href: 'https://toad.academy/',
               target: '_blank'
             },
             {
               title: 'Games',
-              icon: 'mdi-gamepad-variant-outline',
+              icon: 'icons/Games Icon.svg',
               description: 'Play our TOAD-themed games',
               href: 'https://toad.academy/games',
               target: '_blank'
             },
             {
               title: 'YouTube',
-              icon: 'mdi-youtube',
+              icon: 'icons/YouTube Icon.svg',
               description: 'Watch our series of educational animated videos',
               href: 'https://www.youtube.com/channel/UCI_vUc-HrJWtKXj-Re-hTSw',
               target: '_blank'
             },
             {
-              title: 'Pyramid Store',
-              icon: 'mdi-tshirt-crew-outline',
+              title: 'Piramyd Store',
+              icon: 'icons/Piramyd Store Icon.svg',
               description: 'Official TOAD merch',
               href: 'https://piramyd.me/toad-network-x-piramyd/',
               target: '_blank'
@@ -216,21 +217,21 @@ export default {
           subItems: [
             {
               title: 'Telegram',
-              icon: 'mdi-send',
+              icon: 'icons/Telegram Icon.svg',
               description: 'Come chat with us on Telegram',
               href: 'https://t.me/toadnetwork',
               target: '_blank'
             },
             {
               title: 'Reddit',
-              icon: 'mdi-reddit',
+              icon: 'icons/Reddit Icon.svg',
               description: 'Partake in discussions about Toad.Network on our subreddit',
               href: 'https://reddit.com/r/toadnetwork',
               target: '_blank'
             },
             {
               title: 'Twitter',
-              icon: 'mdi-twitter',
+              icon: 'icons/Twitter Icon.svg',
               description: 'Stay up to date with our latest news',
               href: 'https://twitter.com/toadnetwork',
               target: '_blank'
@@ -243,28 +244,28 @@ export default {
           subItems: [
             {
               title: 'TOAD Docs',
-              icon: 'mdi-clipboard-text-search-outline',
+              icon: 'icons/Docs Icon.svg',
               description: 'Learn all about TOAD on our Wiki',
               href: 'https://docs.toad.network/',
               target: '_blank'
             },
             {
               title: 'TOAD Audit Report',
-              icon: 'mdi-text-box-check',
+              icon: 'icons/Audit Icon.svg',
               description: 'TOAD audit report by SpadeAudits',
               href: '/toad_audit_report.pdf',
               target: '_blank'
             },
             {
               title: 'PAD Audit Report',
-              icon: 'mdi-text-box-check',
+              icon: 'icons/Audit Icon.svg',
               description: 'PadSwap contracts audit report by SpadeAudits',
               href: '/pad_audit_report.pdf',
               target: '_blank'
             },
             {
               title: 'White Paper',
-              icon: 'mdi-file-outline',
+              icon: 'icons/White Paper Icon.svg',
               description: 'PadSwap white paper',
               href: 'https://www.dropbox.com/s/bng5e1bq2u03bk6/PAD%20WHITEPAPER.PDF',
               target: '_blank'
