@@ -1,6 +1,7 @@
 <template>
   <v-app>
     <v-app-bar
+      id="nav-bar"
       style="background:transparent; box-shadow: none"
       :clipped-left="clipped"
       fixed
@@ -114,6 +115,24 @@
 </template>
 
 <script>
+const debounce = (fn) => {
+  let frame
+  return (...params) => {
+    if (frame) {
+      cancelAnimationFrame(frame)
+    }
+    frame = requestAnimationFrame(() => {
+      fn(...params)
+    })
+  }
+}
+
+const storeScroll = () => {
+  document.documentElement.dataset.scroll = window.scrollY
+}
+document.addEventListener('scroll', debounce(storeScroll), { passive: true })
+storeScroll()
+
 export default {
   data () {
     return {
@@ -321,7 +340,13 @@ export default {
   }
 }
 </script>
+
 <style scoped>
+
+html:not([data-scroll="0"]) #nav-bar {
+  background-color: #000000c7 !important;
+}
+
 .v-btn {text-transform: capitalize; font-size:1rem; font-weight:400; letter-spacing:1px}
 .v-btn:hover:before { background-color: transparent }
 .v-btn:before { background-color: transparent }
