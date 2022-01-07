@@ -62,12 +62,12 @@
         <div class="text-center">
           <!-- <a class="" href="" target="_blank">
             <div class="animated-button raise">View auctions</div>
-          </a> -->
-          <a class="" href="" target="_blank">
-            <div class="animated-button raise">Coming Soon</div>
           </a>
           <a class="" href="https://docs.toad.network/products/padswap/auctions" target="_blank">
             <div class="animated-button raise gray">Read more</div>
+          </a> -->
+          <a class="" target="_blank">
+            <div class="animated-button raise gray">Coming Soon</div>
           </a>
         </div>
       </div>
