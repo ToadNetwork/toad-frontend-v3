@@ -188,6 +188,13 @@ export default {
               to: '/toad'
             },
             {
+              title: 'Buy crypto with fiat',
+              icon: 'icons/On Ramp Icon.svg',
+              description: 'The easiest way to buy BNB or BUSD',
+              href: 'https://dapps.padswap.exchange/onramp',
+              target: '_self'
+            },
+            {
               title: 'Stats',
               icon: 'icons/Stats Icon.svg',
               description: 'Analyze token prices and their volume',
