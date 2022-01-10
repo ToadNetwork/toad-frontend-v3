@@ -157,21 +157,21 @@ export default {
               title: 'LaunchPad',
               icon: 'icons/LaunchPAD Icon.svg',
               description: 'Partake in exclusive presales',
-              href: 'https://dapps.padswap.exchange/launchpad',
+              href: 'https://v2.padswap.exchange/launchpad',
               target: '_self'
             },
             {
               title: 'Bridge',
               icon: 'icons/Bridge Icon.svg',
               description: 'Bridge tokens between chains',
-              href: 'https://dapps.padswap.exchange/bridge',
+              href: 'https://v2.padswap.exchange/bridge',
               target: '_self'
             },
             {
               title: 'Vault',
               icon: 'icons/Vault Icon.svg',
               description: 'PAD\'s backing reserves',
-              href: 'https://dapps.padswap.exchange/vault',
+              href: 'https://v2.padswap.exchange/vault',
               target: '_self'
             },
             {
