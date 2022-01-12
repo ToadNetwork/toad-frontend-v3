@@ -55,7 +55,7 @@
   order-md="1">
     <div class="text-background">
       <div class="paragraph">
-        <a href="https://v2.padswap.exchange/launchpad/" target="_blank" class="green-link">LaunchPAD</a> is our own multi-chain token creation platform, allowing anyone to launch a token on PadSwap with no coding experience.
+        <a href="https://dapps.padswap.exchange/launchpad/" target="_blank" class="green-link">LaunchPAD</a> is our own multi-chain token creation platform, allowing anyone to launch a token on PadSwap with no coding experience.
       </div>
       <div class="paragraph">
         Every project created on LaunchPAD will start with an audited token contract, a set of audited farms, as well as free or discounted listings with some of our partners.

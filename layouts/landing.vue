@@ -157,7 +157,7 @@ export default {
               title: 'LaunchPad',
               icon: 'icons/LaunchPAD Icon.svg',
               description: 'Partake in exclusive presales',
-              href: 'https://v2.padswap.exchange/launchpad',
+              href: 'https://dapps.padswap.exchange/launchpad/',
               target: '_self'
             },
             {
