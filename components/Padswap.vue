@@ -72,7 +72,7 @@
         <br>
         <div class="paragraph">PadSwap is heavily focused on fairness and security, with a rug-proof DPLP protocol and some of the best incentives for providing liquidity on the platform.</div>
         <div class="text-center">
-          <a class="" href="https://padswap.exchange/" target="_blank">
+          <a class="" href="https://dapps.padswap.exchange/swap" target="_blank">
             <div class="animated-button raise">Use PadSwap</div>
           </a>
           <a class="" href="https://docs.toad.network/products/padswap" target="_blank">

@@ -150,7 +150,7 @@ export default {
               icon: 'icons/Swap Icon.svg',
               active: true,
               description: 'Buy or sell any token instantly on PadSwap',
-              href: 'https://padswap.exchange/#/swap',
+              href: 'https://dapps.padswap.exchange/swap',
               target: '_self'
             },
             {
