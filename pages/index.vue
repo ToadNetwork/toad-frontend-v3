@@ -25,7 +25,7 @@
       sm="auto"
       >
         <v-btn
-          href="http://padswap.exchange/"
+          href="https://dapps.padswap.exchange/swap"
           target="_blank"
           style="width: 100%; border-radius: 12px; background: linear-gradient(128.17deg, rgb(0, 255, 77) -14.78%, rgb(117, 113, 255) 110.05%) 0% 0% repeat scroll rgba(0, 0, 0, 0);"
           >
