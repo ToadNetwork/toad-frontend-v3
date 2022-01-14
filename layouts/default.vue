@@ -164,7 +164,7 @@ export default {
               title: 'Bridge',
               icon: 'mdi-bridge',
               description: 'Bridge tokens between chains',
-              href: 'https://dapps.padswap.exchange/bridge',
+              href: 'https://padswap.exchange/bridge',
               target: '_self'
             },
             {

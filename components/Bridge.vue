@@ -51,14 +51,14 @@
       md="6">
       <div class="text-background">
         <div class="paragraph">
-          Our <a href="https://v2.padswap.exchange/bridge" target="_blank" class="green-link">cross-chain bridge</a> allows users to easily transfer assets between chains, with a simple and intuitive UI.
+          Our <a href="https://padswap.exchange/bridge" target="_blank" class="green-link">cross-chain bridge</a> allows users to easily TOAD between chains, with a simple and intuitive UI.
         </div>
         <div class="paragraph">
           Provides real-time info about transaction progress, and supports bridging to every chain supported by PadSwap.
         </div>
         <br>
         <div class="text-center">
-          <a class="" href="https://v2.padswap.exchange/bridge/" target="_blank">
+          <a class="" href="https://padswap.exchange/bridge" target="_blank">
             <div class="animated-button raise">Use the bridge</div>
           </a>
           <a class="" href="https://docs.toad.network/products/toad-bridge" target="_blank">
