@@ -164,7 +164,7 @@ export default {
               title: 'Bridge',
               icon: 'icons/Bridge Icon.svg',
               description: 'Bridge tokens between chains',
-              href: 'https://v2.padswap.exchange/bridge',
+              href: 'https://padswap.exchange/bridge',
               target: '_self'
             },
             {
