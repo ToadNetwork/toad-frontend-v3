@@ -51,7 +51,7 @@
       </div>
       <div class="text-center">
         <div class="text-center">
-          <a class="" href="https://dapps.padswap.exchange/lpfarms" target="_blank">
+          <a class="" href="https://dapps.padswap.exchange/farms" target="_blank">
             <div class="animated-button raise">DPLP farms</div>
           </a>
           <a class="" href="https://docs.toad.network/products/dplp" target="_blank">
