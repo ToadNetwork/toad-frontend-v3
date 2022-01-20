@@ -165,22 +165,21 @@
       :date="new Date('2021-12-01')"
       title="January 2022"
       description="
-      ☑ New landing page<br>
-      ☑ New cross-chain UI for farms<br>
-      ☑ PadSwap dashboard<br>
-      ☑ Fiat onramping on PadSwap<br>
+      ☑ A series of UI updates:<br>
+      - New toad.network landing page<br>
+      - New cross-chain UI for farms<br>
+      - PadSwap dashboard<br>
+      - Fiat onramping on PadSwap<br>
+      - New swap page<br>
+      - New Bridge page<br>
+      - Curated list of user-created tokens on PadSwap<br>
 
-      ☐ New swap page<br>
-      ☐ New Vault page<br>
-      ☐ New stats page<br>
-      ☐ New Bridge page<br>
+      ☑ PadSwap ported to Moonbeam ecosystem<br>
+      ☑ Moonbeam faucet<br>
 
-      ☐ Upgraded Vault system<br>
-      ☐ GLMR (Moonbeam) port<br>
-      ☐ Multiple project launches on PadSwap<br>
       ☐ Perpetual Auctions<br>
       ☐ LaunchPad Beta<br>
-      ☐ First playable alpha of Toad TCG<br>"
+      ☐ Multiple project launches on PadSwap's LaunchPAD<br>"
       category="In Progress"
       icon="code"
       color="blue"
@@ -190,6 +189,14 @@
       :date="new Date('2021-11-01')"
       title="Future"
       description="
+      • Upgraded Vault system<br>
+      • GLMR (Moonbeam) port<br>
+      • Multiple project launches on PadSwap<br>
+      • Perpetual Auctions<br>
+      • LaunchPad Beta<br>
+      • First playable alpha of Toad TCG<br>
+      • New Vault page<br>
+      • New stats page<br>
       • DAO<br>
       • Make TOAD available to purchase through ATMs<br>
       • Auto-compounding farms<br>
