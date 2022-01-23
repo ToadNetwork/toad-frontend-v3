@@ -249,6 +249,13 @@ export default {
               target: '_blank'
             },
             {
+              title: 'Discord',
+              icon: 'icons/Discord Icon.svg',
+              description: 'Our own Discord server',
+              href: 'https://discord.gg/yChaaxyGjf',
+              target: '_blank'
+            },
+            {
               title: 'Reddit',
               icon: 'icons/Reddit Icon.svg',
               description: 'Partake in discussions about Toad.Network on our subreddit',
