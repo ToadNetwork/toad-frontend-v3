@@ -162,24 +162,36 @@
       />
 
       <vue-timeline-update
-      :date="new Date('2021-12-01')"
+      :date="new Date('2022-01-01')"
       title="January 2022"
       description="
       ☑ A series of UI updates:<br>
       - New toad.network landing page<br>
       - New cross-chain UI for farms<br>
       - PadSwap dashboard<br>
-      - Fiat onramping on PadSwap<br>
       - New swap page<br>
       - New Bridge page<br>
       - Curated list of user-created tokens on PadSwap<br>
 
+      ☑ PadSwap fully ported to Moonbeam (GLMR) chain
+      ☑ Fiat onramping added to PadSwap<br>
       ☑ PadSwap ported to Moonbeam ecosystem<br>
       ☑ Moonbeam faucet<br>
-
-      ☐ Perpetual Auctions<br>
-      ☐ LaunchPad Beta<br>
-      ☐ Multiple project launches on PadSwap's LaunchPAD<br>"
+      ☑ LaunchPAD officially launched on all chains
+"
+      category="In Progress"
+      icon="code"
+      color="blue"
+      />
+      
+      <vue-timeline-update
+      :date="new Date('2022-01-01')"
+      title="January 2022"
+      description="
+      ☐ LaunchPad expanded with one-click token factory<br>
+      ☐ Perpetual Auctions launched<br>
+      ☐ Multiple projects launched on PadSwap's LaunchPAD<br>
+      "
       category="In Progress"
       icon="code"
       color="blue"
@@ -190,14 +202,10 @@
       title="Future"
       description="
       • Upgraded Vault system<br>
-      • GLMR (Moonbeam) port<br>
-      • Multiple project launches on PadSwap<br>
-      • Perpetual Auctions<br>
-      • LaunchPad Beta<br>
-      • First playable alpha of Toad TCG<br>
+      • First playable alpha of a TOAD game with NFT integration<br>
       • New Vault page<br>
       • New stats page<br>
-      • DAO<br>
+      • TOAD DAO<br>
       • Make TOAD available to purchase through ATMs<br>
       • Auto-compounding farms<br>
       • Loans<br>
