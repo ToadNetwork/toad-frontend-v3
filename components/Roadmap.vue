@@ -186,7 +186,7 @@
       
       <vue-timeline-update
       :date="new Date('2022-01-01')"
-      title="January 2022"
+      title="February 2022"
       description="
       ☐ LaunchPad expanded with one-click token factory<br>
       ☐ Perpetual Auctions launched<br>
