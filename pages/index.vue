@@ -316,6 +316,14 @@
         <span>DEX Screener</span>
         </div>
       </a>
+      <a
+      href="https://3commas.io/d/apps/69"
+      target="_blank">
+        <div class="partner-content">
+        <img src="../static/partners/3Commas.png">
+        <span>3Commas</span>
+        </div>
+      </a>
     </div>
   </div>
 </div>
