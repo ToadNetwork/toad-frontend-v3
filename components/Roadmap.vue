@@ -173,9 +173,8 @@
       - New Bridge page<br>
       - Curated list of user-created tokens on PadSwap<br>
 
-      ☑ PadSwap fully ported to Moonbeam (GLMR) chain
+      ☑ PadSwap fully ported to Moonbeam (GLMR) chain<br>
       ☑ Fiat onramping added to PadSwap<br>
-      ☑ PadSwap ported to Moonbeam ecosystem<br>
       ☑ Moonbeam faucet<br>
       ☑ LaunchPAD officially launched on all chains
 "
