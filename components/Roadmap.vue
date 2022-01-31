@@ -179,9 +179,9 @@
       ☑ Moonbeam faucet<br>
       ☑ LaunchPAD officially launched on all chains
 "
-      category="In Progress"
+      category="DONE"
       icon="code"
-      color="blue"
+      color="green"
       />
       
       <vue-timeline-update
