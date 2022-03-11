@@ -64,7 +64,7 @@
 
     </v-row>
     </div>
-    <v-row
+<!--     <v-row
       style="margin-top:100px; margin-left: 10vw; margin-right: 10vw">
       <v-col
       justify="center"
@@ -88,7 +88,7 @@
       <div style="font-size:2.5rem !important;" class="stats text-center">7+</div>
       <div class="text-center">Projects launched on PadSwap</div>
       </v-col>
-    </v-row>
+    </v-row> -->
 
   <!-- Intro section -->
   <!-- Contains the links to dedicated slides for each product -->
