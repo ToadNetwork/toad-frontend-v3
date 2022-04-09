@@ -18,7 +18,8 @@
     "nuxt": "^2.15.3",
     "vue-info-card": "^0.1.4",
     "web3": "^1.4.0",
-    "web3modal": "^1.9.3"
+    "web3modal": "^1.9.3",
+    "yarn": "^1.22.18"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^6.0.0",

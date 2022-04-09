@@ -178,7 +178,7 @@ export default {
               title: 'Farms',
               icon: 'mdi-sprout',
               description: 'Earn passive income by staking liquidity',
-              href: 'https://dapps.padswap.exchange/',
+              href: 'https://padswap.exchange/farms',
               target: '_self'
             },
             {
