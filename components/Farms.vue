@@ -46,7 +46,7 @@
           <a class="" href="https://padswap.exchange/farms" target="_blank">
             <div class="animated-button raise">View farms</div>
           </a>
-          <a class="" href="https://docs.toad.network/products/padswap/yield-farming" target="_blank">
+          <a class="" href="https://docs.toad.network/products/farms" target="_blank">
             <div class="animated-button raise gray">Read more</div>
           </a>
         </div>

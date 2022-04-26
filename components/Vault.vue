@@ -91,7 +91,7 @@
           <a class="" href="https://v2.padswap.exchange/vault/" target="_blank">
             <div class="animated-button raise">Access vault</div>
           </a>
-          <a class="" href="https://docs.toad.network/products/padswap/the-vault" target="_blank">
+          <a class="" href="https://docs.toad.network/fundamentals/the-vault" target="_blank">
             <div class="animated-button raise gray">Read more</div>
           </a>
         </div>
