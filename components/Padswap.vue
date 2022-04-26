@@ -68,7 +68,7 @@
       align-self="center"
       >
       <div class="text-background">
-        <div class="paragraph">PadSwap is our own multi-chain AMM.<br>Built with a Vault system, PADSwap's fees are used to back PAD, its native token.</div>
+        <div class="paragraph">PadSwap is our own multi-chain DEX (decentralized exchange).<br>Built with a Vault system, PADSwap's fees are used to back PAD, its native token.</div>
         <br>
         <div class="paragraph">PadSwap is heavily focused on fairness and security, with a rug-proof DPLP protocol and some of the best incentives for providing liquidity on the platform.</div>
         <div class="text-center">

@@ -38,7 +38,7 @@
     order="2"
     order-md="1">
     <div class="text-background">
-      <div class="paragraph">Farming is our way to incentivize liquidity provision by offering a secure way to make passive income.</div>
+      <div class="paragraph">Yield farming is our way to incentivize liquidity provision by offering a secure way to make passive income through staking.</div>
       <div class="paragraph">PadSwap offers a wide selection of farms, ranging from safe stablecoin pairs to high-APY partner farms.</div>
       <div class="paragraph">From yield farming to liquidity mining, we've got you covered.</div>
       <div class="text-center">
