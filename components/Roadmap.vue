@@ -182,34 +182,47 @@
       icon="code"
       color="green"
       />
-      
+
       <vue-timeline-update
       :date="new Date('2022-01-01')"
       title="February 2022"
       description="
-      ☐ LaunchPad expanded with one-click token factory<br>
-      ☐ Perpetual Auctions launched<br>
-      ☐ Multiple projects launched on PadSwap's LaunchPAD<br>
+      ☑ LaunchPad expanded with one-click token factory<br>
+      ☑ Multiple projects launched on PadSwap's LaunchPAD<br>
+      ☑ Publicly playable alpha of Meme Guardians released
+      ☑ Faucet launched
       "
-      category="In Progress"
+      category="DONE"
       icon="code"
-      color="blue"
+      color="green"
+      />
+
+      <vue-timeline-update
+      :date="new Date('2022-01-01')"
+      title="April 2022"
+      description="
+      ☑ NFT integration added to Meme Guardians
+      ☑ Our first ERC-1155 NFTs
+      "
+      category="DONE"
+      icon="code"
+      color="green"
       />
 
       <vue-timeline-update
       :date="new Date('2021-11-01')"
       title="Future"
       description="
+      • Ability to launch a token on any DEX (not just PadSwap)<br>
+      • Expanding to more chains<br>
+      • Auctions<br>
+      • Farm factory<br>
       • Upgraded Vault system<br>
-      • First playable alpha of a TOAD game with NFT integration<br>
-      • New Vault page<br>
-      • New stats page<br>
       • TOAD DAO<br>
       • Make TOAD available to purchase through ATMs<br>
       • Auto-compounding farms<br>
       • Loans<br>
-      • Soma Protocol Launch (deflationary stablecoins)<br>
-      • TOAD NFT Release"
+      • Soma Protocol Launch (deflationary stablecoins)"
       category="Coming soon"
       icon="code"
       color="gray"
