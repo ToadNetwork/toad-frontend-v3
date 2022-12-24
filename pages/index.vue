@@ -253,14 +253,6 @@
         </div>
       </a>
       <a
-      href="https://blockfolio.com/"
-      target="_blank">
-        <div class="partner-content">
-        <img src="../static/partners/ftx.png">
-        <span>FTX (Blockfolio)</span>
-        </div>
-      </a>
-      <a
       href="https://bubbles.moonlighttoken.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9"
       target="_blank">
         <div class="partner-content">
@@ -298,14 +290,6 @@
         <div class="partner-content">
         <img src="../static/partners/piramyd.png">
         <span>Piramyd Store</span>
-        </div>
-      </a>
-      <a
-      href="https://tokensniffer.com/"
-      target="_blank">
-        <div class="partner-content">
-        <img src="../static/partners/tokensniffer.png">
-        <span>Token Sniffer</span>
         </div>
       </a>
       <a
