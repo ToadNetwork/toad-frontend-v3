@@ -171,7 +171,7 @@ export default {
               title: 'Vault',
               icon: 'icons/Vault Icon.svg',
               description: 'PAD\'s backing reserves',
-              href: 'https://v2.padswap.exchange/vault',
+              href: 'https://padswap.exchange/vault',
               target: '_self'
             },
             {
