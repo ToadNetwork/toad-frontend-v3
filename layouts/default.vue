@@ -157,7 +157,7 @@ export default {
               title: 'LaunchPad',
               icon: 'mdi-rocket-launch',
               description: 'Partake in exclusive presales',
-              href: 'https://dapps.padswap.toad.network/launchpad',
+              href: 'https://padswap.toad.network/launchpad',
               target: '_self'
             },
             {
@@ -171,7 +171,7 @@ export default {
               title: 'Vault',
               icon: 'mdi-safe-square-outline',
               description: 'PAD\'s backing reserves',
-              href: 'https://dapps.padswap.toad.network/vault',
+              href: 'https://padswap.toad.network/vault',
               target: '_self'
             },
             {

@@ -54,7 +54,7 @@
         </v-list>
       </v-menu>
       <v-btn
-      href="https://dapps.padswap.toad.network/"
+      href="https://padswap.toad.network/"
       target="_blank"
       style="border-radius:12px; background: rgba(0, 0, 0, 0) linear-gradient(128.17deg, rgb(0, 255, 77) -14.78%, rgb(117, 113, 255) 110.05%) repeat scroll 0% 0%;"
       >
@@ -150,14 +150,14 @@ export default {
               icon: 'icons/Swap Icon.svg',
               active: true,
               description: 'Buy or sell any token instantly on PadSwap',
-              href: 'https://dapps.padswap.toad.network/swap',
+              href: 'https://padswap.toad.network/swap',
               target: '_self'
             },
             {
               title: 'LaunchPad',
               icon: 'icons/LaunchPAD Icon.svg',
               description: 'Partake in exclusive presales',
-              href: 'https://dapps.padswap.toad.network/launchpad/',
+              href: 'https://padswap.toad.network/launchpad/',
               target: '_self'
             },
             {
@@ -191,7 +191,7 @@ export default {
               title: 'Buy crypto with fiat',
               icon: 'icons/On Ramp Icon.svg',
               description: 'The easiest way to buy BNB or BUSD',
-              href: 'https://dapps.padswap.toad.network/onramp',
+              href: 'https://padswap.toad.network/onramp',
               target: '_self'
             },
             {
