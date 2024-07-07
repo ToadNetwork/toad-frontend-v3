@@ -43,7 +43,7 @@
       <div class="paragraph">From yield farming to liquidity mining, we've got you covered.</div>
       <div class="text-center">
         <div class="text-center">
-          <a class="" href="https://padswap.exchange/farms" target="_blank">
+          <a class="" href="https://padswap.toad.network/farms" target="_blank">
             <div class="animated-button raise">View farms</div>
           </a>
           <a class="" href="https://docs.toad.network/products/farms" target="_blank">

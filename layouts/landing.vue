@@ -54,7 +54,7 @@
         </v-list>
       </v-menu>
       <v-btn
-      href="https://dapps.padswap.exchange/"
+      href="https://dapps.padswap.toad.network/"
       target="_blank"
       style="border-radius:12px; background: rgba(0, 0, 0, 0) linear-gradient(128.17deg, rgb(0, 255, 77) -14.78%, rgb(117, 113, 255) 110.05%) repeat scroll 0% 0%;"
       >
@@ -150,35 +150,35 @@ export default {
               icon: 'icons/Swap Icon.svg',
               active: true,
               description: 'Buy or sell any token instantly on PadSwap',
-              href: 'https://dapps.padswap.exchange/swap',
+              href: 'https://dapps.padswap.toad.network/swap',
               target: '_self'
             },
             {
               title: 'LaunchPad',
               icon: 'icons/LaunchPAD Icon.svg',
               description: 'Partake in exclusive presales',
-              href: 'https://dapps.padswap.exchange/launchpad/',
+              href: 'https://dapps.padswap.toad.network/launchpad/',
               target: '_self'
             },
             {
               title: 'Bridge',
               icon: 'icons/Bridge Icon.svg',
               description: 'Bridge tokens between chains',
-              href: 'https://padswap.exchange/bridge',
+              href: 'https://padswap.toad.network/bridge',
               target: '_self'
             },
             {
               title: 'Vault',
               icon: 'icons/Vault Icon.svg',
               description: 'PAD\'s backing reserves',
-              href: 'https://padswap.exchange/vault',
+              href: 'https://padswap.toad.network/vault',
               target: '_self'
             },
             {
               title: 'Farms',
               icon: 'icons/Farms Icon.svg',
               description: 'Earn passive income by staking liquidity',
-              href: 'https://padswap.exchange/farms',
+              href: 'https://padswap.toad.network/farms',
               target: '_self'
             },
             {
@@ -191,14 +191,14 @@ export default {
               title: 'Buy crypto with fiat',
               icon: 'icons/On Ramp Icon.svg',
               description: 'The easiest way to buy BNB or BUSD',
-              href: 'https://dapps.padswap.exchange/onramp',
+              href: 'https://dapps.padswap.toad.network/onramp',
               target: '_self'
             },
             {
               title: 'Stats',
               icon: 'icons/Stats Icon.svg',
               description: 'Analyze token prices and their volume',
-              href: 'https://info.padswap.exchange/home',
+              href: 'https://info.padswap.toad.network/home',
               target: '_self'
             }
           ]
@@ -312,7 +312,7 @@ export default {
               title: 'PadSwap',
               description: 'Trade TOAD on our own exchange',
               icon: 'icons/Pad Icon.svg',
-              href: 'https://padswap.exchange/#/swap?inputCurrency=0x463e737d8f740395abf44f7aac2d9531d8d539e9',
+              href: 'https://padswap.toad.network/#/swap?inputCurrency=0x463e737d8f740395abf44f7aac2d9531d8d539e9',
               target: '_blank'
             },
             {

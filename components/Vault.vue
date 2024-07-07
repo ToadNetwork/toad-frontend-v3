@@ -79,7 +79,7 @@
     md="6">
       <div class="text-background">
         <div class="paragraph">
-        Whenever a transaction takes place on PADSwap, a portion of the fees go to <a href="https://padswap.exchange/vault" target="_blank" class="green-link">the Vault</a>.
+        Whenever a transaction takes place on PADSwap, a portion of the fees go to <a href="https://padswap.toad.network/vault" target="_blank" class="green-link">the Vault</a>.
         </div>
         <div class="paragraph">
         The tokens accumulated in The Vault act as a backing for PAD, giving it real value in underlying tokens (such as BNB, BTC, ETH, and any other tokens used on PadSwap).
@@ -88,7 +88,7 @@
         By giving users the ability to burn PAD at any time and receive its backing, the Vault creates a permanent price floor and guarantees that PAD will always have value.
         </div>
         <div class="text-center">
-          <a class="" href="https://padswap.exchange/vault" target="_blank">
+          <a class="" href="https://padswap.toad.network/vault" target="_blank">
             <div class="animated-button raise">Access vault</div>
           </a>
           <a class="" href="https://docs.toad.network/fundamentals/the-vault" target="_blank">

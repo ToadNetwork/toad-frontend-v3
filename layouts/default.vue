@@ -150,35 +150,35 @@ export default {
               icon: 'mdi-swap-horizontal',
               active: true,
               description: 'Buy or sell any token instantly on PadSwap',
-              href: 'https://padswap.exchange/#/swap',
+              href: 'https://padswap.toad.network/#/swap',
               target: '_self'
             },
             {
               title: 'LaunchPad',
               icon: 'mdi-rocket-launch',
               description: 'Partake in exclusive presales',
-              href: 'https://dapps.padswap.exchange/launchpad',
+              href: 'https://dapps.padswap.toad.network/launchpad',
               target: '_self'
             },
             {
               title: 'Bridge',
               icon: 'mdi-bridge',
               description: 'Bridge tokens between chains',
-              href: 'https://padswap.exchange/bridge',
+              href: 'https://padswap.toad.network/bridge',
               target: '_self'
             },
             {
               title: 'Vault',
               icon: 'mdi-safe-square-outline',
               description: 'PAD\'s backing reserves',
-              href: 'https://dapps.padswap.exchange/vault',
+              href: 'https://dapps.padswap.toad.network/vault',
               target: '_self'
             },
             {
               title: 'Farms',
               icon: 'mdi-sprout',
               description: 'Earn passive income by staking liquidity',
-              href: 'https://padswap.exchange/farms',
+              href: 'https://padswap.toad.network/farms',
               target: '_self'
             },
             {
@@ -191,7 +191,7 @@ export default {
               title: 'Stats',
               icon: 'mdi-chart-bar',
               description: 'Analyze token prices and their volume',
-              href: 'https://info.padswap.exchange/home',
+              href: 'https://info.padswap.toad.network/home',
               target: '_self'
             }
           ]
@@ -297,7 +297,7 @@ export default {
             {
               title: 'PadSwap',
               description: 'Trade TOAD on our own exchange',
-              href: 'https://padswap.exchange/#/swap?inputCurrency=0x463e737d8f740395abf44f7aac2d9531d8d539e9',
+              href: 'https://padswap.toad.network/#/swap?inputCurrency=0x463e737d8f740395abf44f7aac2d9531d8d539e9',
               target: '_blank'
             },
             {
